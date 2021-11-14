@@ -36,6 +36,7 @@ public class KarasicAddon extends MeteorAddon {
         Modules.get().add(new autotrapik());
         Modules.get().add(new citybreaker());
         Modules.get().add(new selftrapik());
+        Modules.get().add(new ajajaura());
 
 
 
