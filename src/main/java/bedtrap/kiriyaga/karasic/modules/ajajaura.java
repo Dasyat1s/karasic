@@ -101,7 +101,7 @@ public class ajajaura extends Module {
     private boolean huita;
 
     public ajajaura() {
-        super(KarasicAddon.karasic, "ajaj-aura", "bed aura by ajaj#7615");
+        super(KarasicAddon.karasic, "soh-sage-aura", "bed aura by Dasyat1s#6974");
     }
 
 
