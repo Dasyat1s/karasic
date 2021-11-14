@@ -6,7 +6,7 @@ https://discord.gg/chJNFZzTgq
 
 # list of all modules:
 
-- ajaj aura (shown this time lmfao)
+- soh sage aura (used to be ajaj aura and shown this time lmfao)
 - prefix lol
 - Anti Respawn Lose
 - Cool Block Renderer
