@@ -1,12 +1,12 @@
 # Karasic Addon
-Addon for [Meteor Client](https://meteorclient.com/) by Kiriyaga(ajaj#7615)<br/>
+Addon for [Meteor Client](https://meteorclient.com/) by  this monke Kiriyaga(ajaj#7615)<br/>
 https://discord.gg/chJNFZzTgq
 
-- download jar file and run it with latest dev build of [Meteor Client](https://meteorclient.com/).
-- also you can build it by yourself.
+- you can build it by yourself.
 
 # list of all modules:
 
+- ajaj aura (shown this time lmfao)
 - prefix lol
 - Anti Respawn Lose
 - Cool Block Renderer
